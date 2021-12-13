@@ -12,7 +12,7 @@ Small JS Script that includes HTML files.
   </head>
   <body>
       <div include="log.html"></div>
-      <script src="https://cdn.jsdelivr.net/gh/lewmilburn/Include.js@1.0.0/main.min.js"></script><script>includeHTML();</script>
+      <script src="https://cdn.jsdelivr.net/gh/lewmilburn/Include.js@1.0.0/main.min.js"></script><script>include();</script>
   </body>
 </html>
 ```
