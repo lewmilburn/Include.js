@@ -11,7 +11,6 @@ function include() {
           if (this.status == 200) {elmnt.innerHTML = this.responseText;}
           if (this.status == 404) {elmnt.innerHTML = "Error 404: Page not found. (include-html)";}
           elmnt.removeAttribute("include");
-          includeHTML();
         }
       }
       xhttp.open("GET", file, true);
