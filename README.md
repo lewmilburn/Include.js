@@ -1,3 +1,5 @@
+> :warning: **This repository is no longer updated.** The repository will not recieve bugfixes or security updates, as a result of this I do not recommend using this code in a production environment.
+
 # Include.js
 Small JS Script that includes HTML files.
 
